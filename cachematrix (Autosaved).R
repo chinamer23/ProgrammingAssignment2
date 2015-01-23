@@ -29,3 +29,5 @@ cacheSolve <- function(x, ...) {
         return(invx)
         }
 }
+$ git push github master
+
